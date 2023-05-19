@@ -1,5 +1,7 @@
 # Team Kyogre at Smart India Hackathon '22
 
+Code and resources from Team Kyogre's winning participation in Smart India Hackathon, 2022 - Software Edition.
+
 ## Project 1 - SatVision: AI-Driven Detection of Non-Residential Built-Up Clusters from Satellite Images
 
 [**Link to Prototype Demo Video**](https://drive.google.com/file/d/1iFQUJNGRD8HNew-qzn8W0ULaZY_QRtxx/view).    
