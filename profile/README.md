@@ -2,6 +2,8 @@
 
 ### Project 1: SatVision: AI-Driven Detection of Non-Residential Built-Up Clusters from Satellite Images
 
+[Link to Project Documentation and Related Resources](https://drive.google.com/drive/folders/1pxgf16lKAE3KhUQMAe3u23BQO_tnjmZz?usp=share_link).
+
 The identification of non-residential built-up areas and detecting clusters of such regions can greatly aid strategic industrial
 expansions, developmental planning, and understanding the earth’s topography in general.
 
