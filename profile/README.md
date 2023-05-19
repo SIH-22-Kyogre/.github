@@ -15,3 +15,8 @@ In a systematic approach, the solution aims to,
 
 #### Repositories
 
+- [Landcover Visualization Frontend](https://github.com/SIH-22-Kyogre/satvision-mapviewer-frontend).
+- [Landcover Visualization Backend](https://github.com/SIH-22-Kyogre/SatVision_MapViewer-Backend).
+- [Real-time Satellite Image Acquisition](https://github.com/SIH-22-Kyogre/SatVision_Satellite-Image-Acquisition).
+- [Machine Learning Experiments for Landcover Type Detection](https://github.com/SIH-22-Kyogre/SatVision_LandCoverDetection).
+- [Application Pipelineing Utilities](https://github.com/SIH-22-Kyogre/SatVision_Pipelining-Utils).
